@@ -1,4 +1,4 @@
-# Mouse Input Recorder
+# Input Recorder
 
 A small Windows desktop utility that displays recent keyboard and mouse input.
 Recording starts when you press `Ctrl+R`; events are shown in the console and
